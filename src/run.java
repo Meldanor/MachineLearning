@@ -22,8 +22,8 @@ public class run {
     	
     	// creates an agent
 		// TODO: replace by your own agent
-    	IAgent agent = new RandomSRAgent();
-    	
+//    	IAgent agent = new RandomSRAgent();
+    	IAgent agent = new Gaertnagent();
     	// load gridWorld
     	GridWorld gridWorld = null;
     	if (isSRAgent){
