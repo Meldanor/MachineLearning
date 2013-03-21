@@ -4,8 +4,8 @@
  O        
           
           
-          
-     X    
-          
-   OO     
+   O       
+   O X    
+   OOOO       
+        
           
